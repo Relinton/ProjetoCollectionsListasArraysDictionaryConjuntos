@@ -1,0 +1,14 @@
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\bin\Debug\netcoreapp3.1\ListaSomenteLeitura.exe
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\bin\Debug\netcoreapp3.1\ListaSomenteLeitura.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\bin\Debug\netcoreapp3.1\ListaSomenteLeitura.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\bin\Debug\netcoreapp3.1\ListaSomenteLeitura.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\bin\Debug\netcoreapp3.1\ListaSomenteLeitura.dll
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\bin\Debug\netcoreapp3.1\ListaSomenteLeitura.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.dll
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.genruntimeconfig.cache
+D:\RelintonSistemas\CollectionsEmCsharp\ListaSomenteLeitura\obj\Debug\netcoreapp3.1\ListaSomenteLeitura.csproj.AssemblyReference.cache

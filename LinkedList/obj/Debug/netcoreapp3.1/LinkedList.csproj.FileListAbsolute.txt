@@ -1,0 +1,13 @@
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\obj\Debug\netcoreapp3.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache

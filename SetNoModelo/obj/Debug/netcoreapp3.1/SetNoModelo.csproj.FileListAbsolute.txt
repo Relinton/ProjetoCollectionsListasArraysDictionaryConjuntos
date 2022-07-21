@@ -1,0 +1,14 @@
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\bin\Debug\netcoreapp3.1\SetNoModelo.exe
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\bin\Debug\netcoreapp3.1\SetNoModelo.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\bin\Debug\netcoreapp3.1\SetNoModelo.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\bin\Debug\netcoreapp3.1\SetNoModelo.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\bin\Debug\netcoreapp3.1\SetNoModelo.dll
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\bin\Debug\netcoreapp3.1\SetNoModelo.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.csproj.AssemblyReference.cache
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.dll
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\SetNoModelo\obj\Debug\netcoreapp3.1\SetNoModelo.genruntimeconfig.cache

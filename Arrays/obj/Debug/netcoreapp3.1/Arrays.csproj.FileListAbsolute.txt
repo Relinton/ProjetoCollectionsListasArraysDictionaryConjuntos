@@ -1,0 +1,14 @@
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

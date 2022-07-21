@@ -1,0 +1,14 @@
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\bin\Debug\netcoreapp3.1\Lista.exe
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\bin\Debug\netcoreapp3.1\Lista.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\bin\Debug\netcoreapp3.1\Lista.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\bin\Debug\netcoreapp3.1\Lista.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.AssemblyReference.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Lista\obj\Debug\netcoreapp3.1\Lista.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\bin\Debug\netcoreapp3.1\O Poder Dos Sets.exe
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\bin\Debug\netcoreapp3.1\O Poder Dos Sets.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\bin\Debug\netcoreapp3.1\O Poder Dos Sets.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\bin\Debug\netcoreapp3.1\O Poder Dos Sets.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\bin\Debug\netcoreapp3.1\O Poder Dos Sets.dll
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\bin\Debug\netcoreapp3.1\O Poder Dos Sets.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.csproj.AssemblyReference.cache
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.dll
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\O Poder Dos Sets\obj\Debug\netcoreapp3.1\O Poder Dos Sets.genruntimeconfig.cache

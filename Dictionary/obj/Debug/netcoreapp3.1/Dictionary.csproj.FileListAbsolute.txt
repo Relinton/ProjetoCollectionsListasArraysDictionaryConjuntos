@@ -1,0 +1,13 @@
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\bin\Debug\netcoreapp3.1\EqualsEHashCode.exe
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\bin\Debug\netcoreapp3.1\EqualsEHashCode.deps.json
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\bin\Debug\netcoreapp3.1\EqualsEHashCode.runtimeconfig.json
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\bin\Debug\netcoreapp3.1\EqualsEHashCode.runtimeconfig.dev.json
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\bin\Debug\netcoreapp3.1\EqualsEHashCode.dll
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\bin\Debug\netcoreapp3.1\EqualsEHashCode.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\obj\Debug\netcoreapp3.1\EqualsEHashCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\obj\Debug\netcoreapp3.1\EqualsEHashCode.AssemblyInfoInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\obj\Debug\netcoreapp3.1\EqualsEHashCode.AssemblyInfo.cs
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\obj\Debug\netcoreapp3.1\EqualsEHashCode.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\obj\Debug\netcoreapp3.1\EqualsEHashCode.dll
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\obj\Debug\netcoreapp3.1\EqualsEHashCode.pdb
+D:\RelintonSistemas\CollectionsEmCsharp\EqualsEHashCode\obj\Debug\netcoreapp3.1\EqualsEHashCode.genruntimeconfig.cache
